@@ -1,0 +1,146 @@
+.main1{
+    background-image: url("https://ftr.imgix.net/FQBOc9Uh5e22pHikmfCJR/3ce3022343c7ad918545a6a2e01f36b5/homepage-pingzhu-hero-bg-opt-v2.jpg?auto=format%2Ccompress&cs=srgb&fit=max&q=60&w=1920&s=ae7331908c13b70917d2f5b72adea99b");
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;  
+    margin-bottom:100px;
+}
+.img1{
+    width:200px;
+}
+.img2:hover{
+    border:3px solid rgb(11, 11, 15);
+    border-radius: 0%;
+}
+.img2{
+    width:50px;
+    border-radius: 50%;
+}
+.first{
+    display:flex;
+    gap:1100px;
+}
+.heading {
+    text-align: center;
+}
+.h2{
+    font-size:3.2rem;
+    margin-bottom:-48px;
+}
+.para1{
+    font-size:2.6rem;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+button:hover{
+    color:rgb(209, 14, 14);
+}
+button{
+    color:aliceblue;
+    font-size:1rem;
+    text-align:center;
+    width:200px;
+    height: 40px;
+    border-radius:30px;
+    background-color: rgb(56, 128, 49); 
+}   
+.main2{
+    padding-left:400px;
+    padding-right:400px;
+}
+.main2 img{
+    width:300px;
+    height:320px;
+}
+.image3{
+    float:left;
+    margin-right:100px;
+}
+.image4{
+    float:right;
+    margin-left:100px;
+}
+.image5{
+    float:left;
+    margin-right:100px;
+    margin-bottom:50px;
+}
+.prt1,.prt2,.prt3{
+    padding-top:2px;
+}
+.content1,.content2,.content3{
+    margin-bottom:200px;
+}
+.line1{
+    margin-bottom: 0px;
+    font-size:2rem;
+}
+.line2{
+    margin-top: 0px;
+    font-size:2rem;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:1.3rem;
+}
+.link1:hover{
+    color:blue;
+}
+.link2:hover{
+    color:blue;
+}
+.link3:hover{
+    color:blue;
+}
+.link1{
+    color:green;
+}
+.link2{
+    color:green;
+    text-align: center;
+    margin-left: 650px; 
+}
+.link3{
+    color:rgb(17, 11, 4);
+    margin-left: 650px;
+    margin-bottom:100px;
+}
+.main3{
+    display:flex;
+    flex-direction: row;
+    gap:100px;
+    text-align: center;
+    padding-left:100px;
+    padding-right:100px;
+    margin-bottom:50px;
+}
+.main3 img{
+    width:300px;
+    height:300px;
+}
+.main4{
+    margin-top:150px;
+    background-color: rgb(18, 144, 146);
+}
+.main4 img{
+    border-radius: 50px;
+}
+.content7{
+    text-align:center;
+    font-size:3.2rem;
+    margin-top:10px;
+    margin-bottom:0px;
+    color:bisque
+}
+.image9{
+    margin-top:0px;
+    margin-left:250px;
+}
+.paralast{
+    text-align: center;
+}
+span{
+    font-size:3.2rem;
+    color:bisque;
+    margin-left: 13px;
+}
